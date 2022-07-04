@@ -10,8 +10,11 @@ Proyecto DIW
 ## Los artefactos son:
 
 
+####### Los Roles son:
 
-###### Los Roles son:
+
+Agregar un cambio nuevo al archivo ConceptosScrum....
+
 
 
 cambio que hizo un compañero que no quiero pisar y por ello uso git pull
