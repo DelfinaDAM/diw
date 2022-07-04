@@ -7,11 +7,11 @@ Proyecto DIW
 2
 3
 4
-#Los artefactos son:
+## Los artefactos son:
 
 
 
-# Los Roles son:
+###### Los Roles son:
 
 
-
+cambio que hizo un compañero que no quiero pisar y por ello uso git pull
